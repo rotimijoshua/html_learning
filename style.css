@@ -1,14 +1,27 @@
-h1{
+body{
     margin:0;
-    background-color:lightblue  ;
-    color: lightpink;
-    text-align: center;
-    padding:25px;
-    border: rgb(179, 255, 0) solid 10px;
-    box-shadow: 6px 15px 20px black ;
-    border-radius:25px;;
 }
 
-p{
-    margin:0;
+div{
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white; 
+    border: white solid 4px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+}
+
+p {
+    background-color: blue;
+    color: white;
+}
+
+span{
+    background-color: green;
+    color: white;
 }
