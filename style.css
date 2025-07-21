@@ -1,17 +1,14 @@
-h1 {
-    font-family:fantasy;
-    color:white;
-    font-weight: bold;
-    font-size: 50px;
-   background-color: blue;
-   text-align: center;-
+h1{
+    margin:0;
+    background-color:lightblue  ;
+    color: lightpink;
+    text-align: center;
+    padding:25px;
+    border: rgb(179, 255, 0) solid 10px;
+    box-shadow: 6px 15px 20px black ;
+    border-radius:25px;;
 }
 
-label {color: red;}
-
-p {
-    color: purple;
-    font-size: 25px; ;
-    background-color: orange;
+p{
+    margin:0;
 }
-
